@@ -1,0 +1,19 @@
+
+body {background-image: url("../img/hiyahiya.jpg");}
+h1{color:  #6666ff;
+	margin-left: 15px}
+
+h2{color:  #ff80bf;
+	margin-left: 15px}
+
+#nav{border-top: 3px groove green;
+	 border-right: 5px dotted gold;
+	 border-left:5px dashed green;
+	 border-bottom: 3px groove gold;
+	margin: 10px 700px 15px 700px;
+	padding:15px 20px 15px 20px 
+}
+
+#nav a {text-decoration: none;
+		color : blue;
+}
